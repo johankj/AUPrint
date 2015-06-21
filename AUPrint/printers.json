@@ -1,0 +1,1802 @@
+[
+   {
+      "name":"1100-100-c-smpsc11",
+      "location":"1100-100",
+      "url":"smb://print.ad.nfit.au.dk/1100-100-c-smpsc11",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1100-200-b-smps22a",
+      "location":"1100-200",
+      "url":"smb://print.ad.nfit.au.dk/1100-200-b-smps22a",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1100-200-c-smpsc22",
+      "location":"1100-200",
+      "url":"smb://print.ad.nfit.au.dk/1100-200-c-smpsc22",
+      "driver":"KONICA MINOLTA magicolor 2350 PPD"
+   },
+   {
+      "name":"1110-111-c-1",
+      "location":"1110.111",
+      "url":"smb://print.ad.nfit.au.dk/1110-111-c-1",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1110-200-c-1",
+      "location":"1110-200",
+      "url":"smb://print.ad.nfit.au.dk/1110-200-c-1",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1110-200-c-1-Secure",
+      "location":"1110-200",
+      "url":"smb://print.ad.nfit.au.dk/1110-200-c-1-Secure",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1110-301-c",
+      "location":"1110-301",
+      "url":"smb://print.ad.nfit.au.dk/1110-301-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1110-301-c2",
+      "location":"1110-301",
+      "url":"smb://print.ad.nfit.au.dk/1110-301-c2",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1110-400-c-2",
+      "location":"1110-400",
+      "url":"smb://print.ad.nfit.au.dk/1110-400-c-2",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"1110-401-b",
+      "location":"birc",
+      "url":"smb://print.ad.nfit.au.dk/1110-401-b",
+      "driver":"HP LaserJet 4350 PCL 5"
+   },
+   {
+      "name":"1120-112-b-pcl",
+      "location":"1120-112",
+      "url":"smb://print.ad.nfit.au.dk/1120-112-b-pcl",
+      "driver":"HP LaserJet P3005 PCL6"
+   },
+   {
+      "name":"1130-200-c-multi",
+      "location":"1130-200",
+      "url":"smb://print.ad.nfit.au.dk/1130-200-c-multi",
+      "driver":"KONICA MINOLTA C252/C252P VXL"
+   },
+   {
+      "name":"1130-210-C-1",
+      "location":"1130-210",
+      "url":"smb://print.ad.nfit.au.dk/1130-210-C-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1130-210-c-pcl",
+      "location":"1130-210",
+      "url":"smb://print.ad.nfit.au.dk/1130-210-c-pcl",
+      "driver":"HP Color LaserJet 2700_2700n PCL 6"
+   },
+   {
+      "name":"1130-210-c-ps",
+      "location":"1130-210",
+      "url":"smb://print.ad.nfit.au.dk/1130-210-c-ps",
+      "driver":"HP Universal Printing PS (v5.4)"
+   },
+   {
+      "name":"1130-215-b-1",
+      "location":"1130.215",
+      "url":"smb://print.ad.nfit.au.dk/1130-215-b-1",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"1130-216-b-pcl",
+      "location":"1130-216",
+      "url":"smb://print.ad.nfit.au.dk/1130-216-b-pcl",
+      "driver":"HP LaserJet 4250 PCL 6"
+   },
+   {
+      "name":"1130-216-b-ps",
+      "location":"1130-216",
+      "url":"smb://print.ad.nfit.au.dk/1130-216-b-ps",
+      "driver":"HP LaserJet 4250 PS"
+   },
+   {
+      "name":"1130-322-b-adm-pcl",
+      "location":"1130-322",
+      "url":"smb://print.ad.nfit.au.dk/1130-322-b-adm-pcl",
+      "driver":"HP LaserJet 4350 PCL 5"
+   },
+   {
+      "name":"1130-322-b-adm-ps",
+      "location":"1130-322",
+      "url":"smb://print.ad.nfit.au.dk/1130-322-b-adm-ps",
+      "driver":"HP LaserJet 4350 PS"
+   },
+   {
+      "name":"1130-322-b-pcl",
+      "location":"1130-322",
+      "url":"smb://print.ad.nfit.au.dk/1130-322-b-pcl",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1130-322-b-ps",
+      "location":"1130-322",
+      "url":"smb://print.ad.nfit.au.dk/1130-322-b-ps",
+      "driver":"HP Universal Printing PS"
+   },
+   {
+      "name":"1130-322-c-ps",
+      "location":"1130-322 copyRoom",
+      "url":"smb://print.ad.nfit.au.dk/1130-322-c-ps",
+      "driver":"HP Color LaserJet 4700 PS"
+   },
+   {
+      "name":"1130-408-b-pcl",
+      "location":"1130-408",
+      "url":"smb://print.ad.nfit.au.dk/1130-408-b-pcl",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1130-408-b-ps",
+      "location":"1130-408",
+      "url":"smb://print.ad.nfit.au.dk/1130-408-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"1130-429-b-ps",
+      "location":"1130-429",
+      "url":"smb://print.ad.nfit.au.dk/1130-429-b-ps",
+      "driver":"HP LaserJet 4350 PS"
+   },
+   {
+      "name":"1131-118-b",
+      "location":"1131-118",
+      "url":"smb://print.ad.nfit.au.dk/1131-118-b",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1131-118-b2",
+      "location":"1131-118",
+      "url":"smb://print.ad.nfit.au.dk/1131-118-b2",
+      "driver":"HP LaserJet 4050 Series PCL6"
+   },
+   {
+      "name":"1131-118-c",
+      "location":"1131-118",
+      "url":"smb://print.ad.nfit.au.dk/1131-118-c",
+      "driver":"Brother HL-4040CN"
+   },
+   {
+      "name":"1131-118-c-2",
+      "location":"1131-118",
+      "url":"smb://print.ad.nfit.au.dk/1131-118-c-2",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1131-135-b",
+      "location":"1131-135",
+      "url":"smb://print.ad.nfit.au.dk/1131-135-b",
+      "driver":"KONICA MINOLTA 350/250/200 VXL"
+   },
+   {
+      "name":"1131-219-b",
+      "location":"1131-219",
+      "url":"smb://print.ad.nfit.au.dk/1131-219-b",
+      "driver":"HP Universal Printing PS"
+   },
+   {
+      "name":"1131-319-b-pcl",
+      "location":"1131-319",
+      "url":"smb://print.ad.nfit.au.dk/1131-319-b-pcl",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1131-319-b-ps",
+      "location":"1131-319",
+      "url":"smb://print.ad.nfit.au.dk/1131-319-b-ps",
+      "driver":"HP Universal Printing PS (v5.4)"
+   },
+   {
+      "name":"1131-332-c-pcl",
+      "location":"1131-332",
+      "url":"smb://print.ad.nfit.au.dk/1131-332-c-pcl",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1131-332-c-ps",
+      "location":"1131-332",
+      "url":"smb://print.ad.nfit.au.dk/1131-332-c-ps",
+      "driver":"HP Universal Printing PS (v5.4)"
+   },
+   {
+      "name":"1131-427-c-ps",
+      "location":"1131-427",
+      "url":"smb://print.ad.nfit.au.dk/1131-427-c-ps",
+      "driver":"HP Color LaserJet 4650 PS"
+   },
+   {
+      "name":"1131-429-b-pcl",
+      "location":"1131-429",
+      "url":"smb://print.ad.nfit.au.dk/1131-429-b-pcl",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1131-429-b-ps",
+      "location":"1131-429",
+      "url":"smb://print.ad.nfit.au.dk/1131-429-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"1131-522-c-pcl",
+      "location":"1131-522",
+      "url":"smb://print.ad.nfit.au.dk/1131-522-c-pcl",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1131-522-c-ps",
+      "location":"1131-522",
+      "url":"smb://print.ad.nfit.au.dk/1131-522-c-ps",
+      "driver":"HP Universal Printing PS (v5.4)"
+   },
+   {
+      "name":"1131-535-b-pcl",
+      "location":"1131-535",
+      "url":"smb://print.ad.nfit.au.dk/1131-535-b-pcl",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1131-535-b-ps",
+      "location":"1131-535",
+      "url":"smb://print.ad.nfit.au.dk/1131-535-b-ps",
+      "driver":"HP Universal Printing PS (v5.4)"
+   },
+   {
+      "name":"1131-632-b-ps",
+      "location":"1131-632",
+      "url":"smb://print.ad.nfit.au.dk/1131-632-b-ps",
+      "driver":"HP LaserJet 4050 Series PS"
+   },
+   {
+      "name":"1134-329-b-pcl",
+      "location":"1134-329",
+      "url":"smb://print.ad.nfit.au.dk/1134-329-b-pcl",
+      "driver":"HP LaserJet 4050 Series PCL 5"
+   },
+   {
+      "name":"1134-329-b-ps",
+      "location":"1134-329",
+      "url":"smb://print.ad.nfit.au.dk/1134-329-b-ps",
+      "driver":"HP LaserJet 4050 Series PS"
+   },
+   {
+      "name":"1135-127-b",
+      "location":"1135-127",
+      "url":"smb://print.ad.nfit.au.dk/1135-127-b",
+      "driver":"KONICA MINOLTA 350/250/200 VPS"
+   },
+   {
+      "name":"1135-127-c",
+      "location":"1135.127",
+      "url":"smb://print.ad.nfit.au.dk/1135-127-c",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1135-127-c-1",
+      "location":"1135-127",
+      "url":"smb://print.ad.nfit.au.dk/1135-127-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1135-131-c",
+      "location":"1135-131",
+      "url":"smb://print.ad.nfit.au.dk/1135-131-c",
+      "driver":"HP Color LaserJet CP3525 PCL 6"
+   },
+   {
+      "name":"1135-216-b",
+      "location":"1135.216",
+      "url":"smb://print.ad.nfit.au.dk/1135-216-b",
+      "driver":"HP LaserJet 4050 Series PCL6"
+   },
+   {
+      "name":"1135-233-b",
+      "location":"1135-233",
+      "url":"smb://print.ad.nfit.au.dk/1135-233-b",
+      "driver":"HP Universal Printing PCL 6"
+   },
+   {
+      "name":"1135-233-c",
+      "location":"1135-233",
+      "url":"smb://print.ad.nfit.au.dk/1135-233-c",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1135-233-c-2",
+      "location":"1135-233",
+      "url":"smb://print.ad.nfit.au.dk/1135-233-c-2",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"1135-238-b-1",
+      "location":"1135-238",
+      "url":"smb://print.ad.nfit.au.dk/1135-238-b-1",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"1135-411-b",
+      "location":"1135-411",
+      "url":"smb://print.ad.nfit.au.dk/1135-411-b",
+      "driver":"HP LaserJet 4100 Series PCL6"
+   },
+   {
+      "name":"1137-126-b-multi",
+      "location":"1137-126",
+      "url":"smb://print.ad.nfit.au.dk/1137-126-b-multi",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1137-126-c-multi",
+      "location":"1137-126",
+      "url":"smb://print.ad.nfit.au.dk/1137-126-c-multi",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1137-211-b",
+      "location":"1137-211 - Herbarium",
+      "url":"smb://print.ad.nfit.au.dk/1137-211-b",
+      "driver":"HP Universal Printing PCL 6 (v5.1)"
+   },
+   {
+      "name":"1137-223-b",
+      "location":"1137-223 - Herbarium",
+      "url":"smb://print.ad.nfit.au.dk/1137-223-b",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1221-116-b",
+      "location":"Biologiens Hus",
+      "url":"smb://print.ad.nfit.au.dk/1221-116-b",
+      "driver":"HP LaserJet 4000 Series PCL 5"
+   },
+   {
+      "name":"1221-129-b",
+      "location":"Biologiens Hus",
+      "url":"smb://print.ad.nfit.au.dk/1221-129-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1510-212-c-1",
+      "location":"1510-212",
+      "url":"smb://print.ad.nfit.au.dk/1510-212-c-1",
+      "driver":"HP LaserJet Professional CM1410 Series PCL 6"
+   },
+   {
+      "name":"1510-310-b-lp51",
+      "location":"1510-310",
+      "url":"smb://print.ad.nfit.au.dk/1510-310-b-lp51",
+      "driver":"KONICA MINOLTA 750/600 VXL"
+   },
+   {
+      "name":"1510-310-b-lp55",
+      "location":"1510-310",
+      "url":"smb://print.ad.nfit.au.dk/1510-310-b-lp55",
+      "driver":"KONICAMINOLTA652/602SeriesPCL"
+   },
+   {
+      "name":"1510-315-b-lp101",
+      "location":"1510-315",
+      "url":"smb://print.ad.nfit.au.dk/1510-315-b-lp101",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1510-318-b-lp6",
+      "location":"1510-318",
+      "url":"smb://print.ad.nfit.au.dk/1510-318-b-lp6",
+      "driver":"HP LaserJet 4050 Series PS"
+   },
+   {
+      "name":"1510-319-b-lp102",
+      "location":"1510-319",
+      "url":"smb://print.ad.nfit.au.dk/1510-319-b-lp102",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1510-416-C-1",
+      "location":"1510-416",
+      "url":"smb://print.ad.nfit.au.dk/1510-416-C-1",
+      "driver":"HP LaserJet 200 color MFP M276 PCL 6"
+   },
+   {
+      "name":"1510-419-b-lp29",
+      "location":"1510-419",
+      "url":"smb://print.ad.nfit.au.dk/1510-419-b-lp29",
+      "driver":"HP LaserJet 4350 PCL 6"
+   },
+   {
+      "name":"1510-421-c-lp28",
+      "location":"1510-421",
+      "url":"smb://print.ad.nfit.au.dk/1510-421-c-lp28",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1510-514-c-1",
+      "location":"1510-514",
+      "url":"smb://print.ad.nfit.au.dk/1510-514-c-1",
+      "driver":"HP Universal Printing PCL 5 (v5.7.0)"
+   },
+   {
+      "name":"1511-114-c-lp5",
+      "location":"1511-114",
+      "url":"smb://print.ad.nfit.au.dk/1511-114-c-lp5",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1511-200-b-1",
+      "location":"1511-200",
+      "url":"smb://print.ad.nfit.au.dk/1511-200-b-1",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1511-221-c-1",
+      "location":"1511-221-c-1",
+      "url":"smb://print.ad.nfit.au.dk/1511-221-c-1",
+      "driver":"HP Universal Printing PCL 6 (v5.3)"
+   },
+   {
+      "name":"1511-221-c-2",
+      "location":"1511-221",
+      "url":"smb://print.ad.nfit.au.dk/1511-221-c-2",
+      "driver":"HP Color LaserJet CM2320 MFP Series PCL 6"
+   },
+   {
+      "name":"1511-222-c-lp14",
+      "location":"1511-222",
+      "url":"smb://print.ad.nfit.au.dk/1511-222-c-lp14",
+      "driver":"HP Color LaserJet 2700_2700n PCL 6"
+   },
+   {
+      "name":"1511-300-b-1",
+      "location":"1511-300-b-1",
+      "url":"smb://print.ad.nfit.au.dk/1511-300-b-1",
+      "driver":"HP Universal Printing PCL 5 (v5.7.0)"
+   },
+   {
+      "name":"1511-300-L-LP200",
+      "location":"1511-300",
+      "url":"smb://print.ad.nfit.au.dk/1511-300-L-LP200",
+      "driver":"Brother QL-580N LE"
+   },
+   {
+      "name":"1511-319-c-lp19",
+      "location":"1511-319",
+      "url":"smb://print.ad.nfit.au.dk/1511-319-c-lp19",
+      "driver":"HP Color LaserJet 4700 PCL 5c"
+   },
+   {
+      "name":"1511-400-b-lp44",
+      "location":"1511-400",
+      "url":"smb://print.ad.nfit.au.dk/1511-400-b-lp44",
+      "driver":"HP Universal Printing PCL 5 (v5.7.0)"
+   },
+   {
+      "name":"1511-419-c-lp37",
+      "location":"1511-419",
+      "url":"smb://print.ad.nfit.au.dk/1511-419-c-lp37",
+      "driver":"HP Universal Printing PS"
+   },
+   {
+      "name":"1512-100-1-b",
+      "location":"1512-100",
+      "url":"smb://print.ad.nfit.au.dk/1512-100-1-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1512-112-b-lp41",
+      "location":"1512-112",
+      "url":"smb://print.ad.nfit.au.dk/1512-112-b-lp41",
+      "driver":"HP LaserJet P3005 PCL6"
+   },
+   {
+      "name":"1512-113-c-1",
+      "location":"1512-113",
+      "url":"smb://print.ad.nfit.au.dk/1512-113-c-1",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1512-200-b-lp16",
+      "location":"1512-200",
+      "url":"smb://print.ad.nfit.au.dk/1512-200-b-lp16",
+      "driver":"HP Universal Printing PCL 5 (v5.7.0)"
+   },
+   {
+      "name":"1512-223-c-1",
+      "location":"1512-223",
+      "url":"smb://print.ad.nfit.au.dk/1512-223-c-1",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1512-300-b-1",
+      "location":"1512-300",
+      "url":"smb://print.ad.nfit.au.dk/1512-300-b-1",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1513-100-b-lp32",
+      "location":"1513-100",
+      "url":"smb://print.ad.nfit.au.dk/1513-100-b-lp32",
+      "driver":"HP LaserJet 4250 PCL 6"
+   },
+   {
+      "name":"1513-114-c-lp201",
+      "location":"1513-114",
+      "url":"smb://print.ad.nfit.au.dk/1513-114-c-lp201",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1513-231-b-1",
+      "location":"1513-231",
+      "url":"smb://print.ad.nfit.au.dk/1513-231-b-1",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"1513-400-b-lp20",
+      "location":"1513-400",
+      "url":"smb://print.ad.nfit.au.dk/1513-400-b-lp20",
+      "driver":"HP LaserJet 4350 PCL 6"
+   },
+   {
+      "name":"1513-416-c-lp27",
+      "location":"1513-416",
+      "url":"smb://print.ad.nfit.au.dk/1513-416-c-lp27",
+      "driver":"HP Universal Printing PS"
+   },
+   {
+      "name":"1513-418-c-1",
+      "location":"1513-418",
+      "url":"smb://print.ad.nfit.au.dk/1513-418-c-1",
+      "driver":"HP LaserJet 200 color MFP M276 PCL 6"
+   },
+   {
+      "name":"1513-418-c-2",
+      "location":"1513-418",
+      "url":"smb://print.ad.nfit.au.dk/1513-418-c-2",
+      "driver":"HP LaserJet 200 color MFP M276 PCL 6"
+   },
+   {
+      "name":"1513-422A-b-lp3",
+      "location":"1513-422A",
+      "url":"smb://print.ad.nfit.au.dk/1513-422A-b-lp3",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1513-422A-c-lp40",
+      "location":"1513-422A",
+      "url":"smb://print.ad.nfit.au.dk/1513-422A-c-lp40",
+      "driver":"HP Color LaserJet 4700 PCL 6"
+   },
+   {
+      "name":"1513-513-c-1",
+      "location":"1513-513",
+      "url":"smb://print.ad.nfit.au.dk/1513-513-c-1",
+      "driver":"HP LaserJet 200 color MFP M276 PCL 6"
+   },
+   {
+      "name":"1513-522-b-1",
+      "location":"1513-522",
+      "url":"smb://print.ad.nfit.au.dk/1513-522-b-1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1513-528-b-2",
+      "location":"1513-528",
+      "url":"smb://print.ad.nfit.au.dk/1513-528-b-2",
+      "driver":"HP LaserJet 4350 PCL 5"
+   },
+   {
+      "name":"1513-528-c-1",
+      "location":"1513-528",
+      "url":"smb://print.ad.nfit.au.dk/1513-528-c-1",
+      "driver":"HP Color LaserJet 4700"
+   },
+   {
+      "name":"1514-115-b-lp2",
+      "location":"1514-115",
+      "url":"smb://print.ad.nfit.au.dk/1514-115-b-lp2",
+      "driver":"HP LaserJet 4250 PCL 6"
+   },
+   {
+      "name":"1514-119-b-lp53",
+      "location":"1514-119",
+      "url":"smb://print.ad.nfit.au.dk/1514-119-b-lp53",
+      "driver":"KONICA MINOLTA 350/250/200 VXL"
+   },
+   {
+      "name":"1520-100-b-PS01b",
+      "location":"1520-100 wallcabinet",
+      "url":"smb://print.ad.nfit.au.dk/1520-100-b-PS01b",
+      "driver":"HP Universal Printing PCL 5"
+   },
+   {
+      "name":"1520-117-b-PS01",
+      "location":"1520-117",
+      "url":"smb://print.ad.nfit.au.dk/1520-117-b-PS01",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1520-117-c-PSC01",
+      "location":"1520-117",
+      "url":"smb://print.ad.nfit.au.dk/1520-117-c-PSC01",
+      "driver":"HP Color LaserJet 4650 PS"
+   },
+   {
+      "name":"1520-117-c-PSC01b",
+      "location":"1520-117",
+      "url":"smb://print.ad.nfit.au.dk/1520-117-c-PSC01b",
+      "driver":"KONICA MINOLTA C360SeriesPS"
+   },
+   {
+      "name":"1520-117-c-PSC01b-Secure",
+      "location":"1520-117",
+      "url":"smb://print.ad.nfit.au.dk/1520-117-c-PSC01b-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPS"
+   },
+   {
+      "name":"1520-215-c-PSC02",
+      "location":"1520-215",
+      "url":"smb://print.ad.nfit.au.dk/1520-215-c-PSC02",
+      "driver":"HP Color LaserJet CP2020 Series PCL6"
+   },
+   {
+      "name":"1520-217-c-PSC02a",
+      "location":"Building 1520 room 217",
+      "url":"smb://print.ad.nfit.au.dk/1520-217-c-PSC02a",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1520-217-c-PSC02a-SECURE",
+      "location":"Building 1520 room 217",
+      "url":"smb://print.ad.nfit.au.dk/1520-217-c-PSC02a-SECURE",
+      "driver":"KONICA MINOLTA C360SeriesPS"
+   },
+   {
+      "name":"1520-315-c-1",
+      "location":"1520-315",
+      "url":"smb://print.ad.nfit.au.dk/1520-315-c-1",
+      "driver":"Xerox WorkCentre 7835"
+   },
+   {
+      "name":"1520-400-b",
+      "location":"1520-400",
+      "url":"smb://print.ad.nfit.au.dk/1520-400-b",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1520-400-c-1",
+      "location":"1520-400",
+      "url":"smb://print.ad.nfit.au.dk/1520-400-c-1",
+      "driver":"Xerox WorkCentre 7225 PCL6"
+   },
+   {
+      "name":"1520-500-c-psc05",
+      "location":"1520 Corridor",
+      "url":"smb://print.ad.nfit.au.dk/1520-500-c-psc05",
+      "driver":"KONICA MINOLTA C360SeriesPS"
+   },
+   {
+      "name":"1520-500-c-psc05a",
+      "location":"1520-500",
+      "url":"smb://print.ad.nfit.au.dk/1520-500-c-psc05a",
+      "driver":"HP Universal Printing PCL 6 (v5.3)"
+   },
+   {
+      "name":"1520-515-c-PSC9h",
+      "location":"1520 floor 5 office 515",
+      "url":"smb://print.ad.nfit.au.dk/1520-515-c-PSC9h",
+      "driver":"HP Color LaserJet 4700 PCL 5c"
+   },
+   {
+      "name":"1520-600-b-PS06a",
+      "location":"1520 floor 6 - corridor",
+      "url":"smb://print.ad.nfit.au.dk/1520-600-b-PS06a",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1520-600-c-psc06c",
+      "location":"1520-600",
+      "url":"smb://print.ad.nfit.au.dk/1520-600-c-psc06c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1520-600-c-psc06c-Secure",
+      "location":"1520-600",
+      "url":"smb://print.ad.nfit.au.dk/1520-600-c-psc06c-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1521-100-c-PSC11",
+      "location":"1521 floor 1 corridor",
+      "url":"smb://print.ad.nfit.au.dk/1521-100-c-PSC11",
+      "driver":"HP Color LaserJet 4650 PS"
+   },
+   {
+      "name":"1521-118-c-psc11b",
+      "location":"1521-118",
+      "url":"smb://print.ad.nfit.au.dk/1521-118-c-psc11b",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1521-118-c-psc11b-Secure",
+      "location":"1521-118",
+      "url":"smb://print.ad.nfit.au.dk/1521-118-c-psc11b-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1521-209-c",
+      "location":"1521-209",
+      "url":"smb://print.ad.nfit.au.dk/1521-209-c",
+      "driver":"HP Color LaserJet CP2020 Series PCL6"
+   },
+   {
+      "name":"1521-218-c-psc12",
+      "location":"1521-218",
+      "url":"smb://print.ad.nfit.au.dk/1521-218-c-psc12",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1521-218-c-PSC12c",
+      "location":"1521 floor 2 office 218a",
+      "url":"smb://print.ad.nfit.au.dk/1521-218-c-PSC12c",
+      "driver":"HP Color LaserJet 4700 PCL 5c"
+   },
+   {
+      "name":"1521-218-c-psc12-Secure",
+      "location":"1521-218",
+      "url":"smb://print.ad.nfit.au.dk/1521-218-c-psc12-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1521-300-b",
+      "location":"1521-300 gang",
+      "url":"smb://print.ad.nfit.au.dk/1521-300-b",
+      "driver":"HP Universal Printing PCL 6 (v5.8.0)"
+   },
+   {
+      "name":"1521-310-b-Helpdesk",
+      "location":"1521-310-Helpdesk",
+      "url":"smb://print.ad.nfit.au.dk/1521-310-b-Helpdesk",
+      "driver":"HP LaserJet P2015 PCL6"
+   },
+   {
+      "name":"1521-400-b",
+      "location":"1521-400",
+      "url":"smb://print.ad.nfit.au.dk/1521-400-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1521-400-b-PS14b",
+      "location":"1521-400",
+      "url":"smb://print.ad.nfit.au.dk/1521-400-b-PS14b",
+      "driver":"KONICA MINOLTA 240f PCL5e"
+   },
+   {
+      "name":"1522-100-b-PS21",
+      "location":"1522 1 floor Corridor",
+      "url":"smb://print.ad.nfit.au.dk/1522-100-b-PS21",
+      "driver":"HP LaserJet 4250 PS"
+   },
+   {
+      "name":"1522-200-b-PS22d",
+      "location":"1522-215",
+      "url":"smb://print.ad.nfit.au.dk/1522-200-b-PS22d",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1522-231-b-PS22c",
+      "location":"1522-231",
+      "url":"smb://print.ad.nfit.au.dk/1522-231-b-PS22c",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1522-300-b-PS23",
+      "location":"1522 3 floor",
+      "url":"smb://print.ad.nfit.au.dk/1522-300-b-PS23",
+      "driver":"HP Universal Printing PCL 6"
+   },
+   {
+      "name":"1522-400-b-PS24",
+      "location":"1522 4 floor Corridor",
+      "url":"smb://print.ad.nfit.au.dk/1522-400-b-PS24",
+      "driver":"HP Universal Printing PCL 5 (v5.7.0)"
+   },
+   {
+      "name":"1522-400-c-1",
+      "location":"1522 floor 4 Corridor",
+      "url":"smb://print.ad.nfit.au.dk/1522-400-c-1",
+      "driver":"Kyocera KM-C3232E KX"
+   },
+   {
+      "name":"1523-115-b-1",
+      "location":"1523-115",
+      "url":"smb://print.ad.nfit.au.dk/1523-115-b-1",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"1523-115-c-1",
+      "location":"1523-115",
+      "url":"smb://print.ad.nfit.au.dk/1523-115-c-1",
+      "driver":"HP Universal Printing PCL 6 (v5.3)"
+   },
+   {
+      "name":"1523-215-c-PSC32a",
+      "location":"1523 floor 2 office 215",
+      "url":"smb://print.ad.nfit.au.dk/1523-215-c-PSC32a",
+      "driver":"KONICA MINOLTA C352/C300 VPS"
+   },
+   {
+      "name":"1524-000-b-ps40b",
+      "location":"1524-031 400KV Acc.",
+      "url":"smb://print.ad.nfit.au.dk/1524-000-b-ps40b",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1524-000-b-ps40c",
+      "location":"1524-015A Fermi Lab.",
+      "url":"smb://print.ad.nfit.au.dk/1524-000-b-ps40c",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1524-000-c-PSC40-MARS_Lab",
+      "location":"1524 Mars Lab",
+      "url":"smb://print.ad.nfit.au.dk/1524-000-c-PSC40-MARS_Lab",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1524-021c-c-1",
+      "location":"1524-021c",
+      "url":"smb://print.ad.nfit.au.dk/1524-021c-c-1",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1524-033-b",
+      "location":"1524-033 (Lab)",
+      "url":"smb://print.ad.nfit.au.dk/1524-033-b",
+      "driver":"HP LaserJet P2015 PCL6"
+   },
+   {
+      "name":"1524-STM-c-PSC40a",
+      "location":"1524-STM",
+      "url":"smb://print.ad.nfit.au.dk/1524-STM-c-PSC40a",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1525-000-b-PS50",
+      "location":"1525 floor 0 Office 020",
+      "url":"smb://print.ad.nfit.au.dk/1525-000-b-PS50",
+      "driver":"HP LaserJet 4050 Series PS"
+   },
+   {
+      "name":"1525-200-b-PS52",
+      "location":"1525 floor 2 Corridor",
+      "url":"smb://print.ad.nfit.au.dk/1525-200-b-PS52",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1525-200-b-ps52c",
+      "location":"1525-200",
+      "url":"smb://print.ad.nfit.au.dk/1525-200-b-ps52c",
+      "driver":"Kyocera Mita KM-2050"
+   },
+   {
+      "name":"1525-200-c-1",
+      "location":"1525 floor 2 - corridor",
+      "url":"smb://print.ad.nfit.au.dk/1525-200-c-1",
+      "driver":"KONICA MINOLTA C352/C300 VPS"
+   },
+   {
+      "name":"1525-224-c-1",
+      "location":"1525-224",
+      "url":"smb://print.ad.nfit.au.dk/1525-224-c-1",
+      "driver":"HP Color LaserJet 4700 PCL 6"
+   },
+   {
+      "name":"1525-300-b-PS53",
+      "location":"1525-300",
+      "url":"smb://print.ad.nfit.au.dk/1525-300-b-PS53",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1525-300-c-psc53a",
+      "location":"1525-300",
+      "url":"smb://print.ad.nfit.au.dk/1525-300-c-psc53a",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1525-300-c-psc53a-Secure",
+      "location":"1525-300",
+      "url":"smb://print.ad.nfit.au.dk/1525-300-c-psc53a-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1525-315-b-PS9d",
+      "location":"1525-315",
+      "url":"smb://print.ad.nfit.au.dk/1525-315-b-PS9d",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1525-319-b-PS9a",
+      "location":"1525 floor 3 office 319",
+      "url":"smb://print.ad.nfit.au.dk/1525-319-b-PS9a",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1525-400-b-1",
+      "location":"1525-400",
+      "url":"smb://print.ad.nfit.au.dk/1525-400-b-1",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"1525-400-c-2",
+      "location":"1525-400",
+      "url":"smb://print.ad.nfit.au.dk/1525-400-c-2",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"1525-500-c-1",
+      "location":"1525-500",
+      "url":"smb://print.ad.nfit.au.dk/1525-500-c-1",
+      "driver":"Xerox WorkCentre 7835"
+   },
+   {
+      "name":"1525-500-c-PSC55",
+      "location":"Building 1525 floor 5 - corridor",
+      "url":"smb://print.ad.nfit.au.dk/1525-500-c-PSC55",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1526-102-b-PS61b",
+      "location":"1526 floor 1 office 102",
+      "url":"smb://print.ad.nfit.au.dk/1526-102-b-PS61b",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1526-113-b-PS61a",
+      "location":"1526 floor 1 office 113",
+      "url":"smb://print.ad.nfit.au.dk/1526-113-b-PS61a",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1526-170-b-PS61c",
+      "location":"1526 floor 1 office 170",
+      "url":"smb://print.ad.nfit.au.dk/1526-170-b-PS61c",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1526-178-c-psc61",
+      "location":"1526-178",
+      "url":"smb://print.ad.nfit.au.dk/1526-178-c-psc61",
+      "driver":"HP Color LaserJet 2700_2700n PCL 6"
+   },
+   {
+      "name":"1530-123-b-1",
+      "location":"1530-123",
+      "url":"smb://print.ad.nfit.au.dk/1530-123-b-1",
+      "driver":"Canon iR2220/iR3320 PS3"
+   },
+   {
+      "name":"1530-129-b-1",
+      "location":"1530-129",
+      "url":"smb://print.ad.nfit.au.dk/1530-129-b-1",
+      "driver":"HP LaserJet 400 M401 PCL 6"
+   },
+   {
+      "name":"1530-131a-b",
+      "location":"1530-131a",
+      "url":"smb://print.ad.nfit.au.dk/1530-131a-b",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1530-205-c-A2",
+      "location":"1530-205",
+      "url":"smb://print.ad.nfit.au.dk/1530-205-c-A2",
+      "driver":"Canon iR-ADV C7055/7065 PS3"
+   },
+   {
+      "name":"1530-205-c-colA2",
+      "location":"1530-205-c-colA2",
+      "url":"smb://print.ad.nfit.au.dk/1530-205-c-colA2",
+      "driver":"OKI C9650(PS)"
+   },
+   {
+      "name":"1530-231-c",
+      "location":"1530-231",
+      "url":"smb://print.ad.nfit.au.dk/1530-231-c",
+      "driver":"HP Universal Printing PCL 6 (v5.3)"
+   },
+   {
+      "name":"1530-313-b-A3",
+      "location":"1530-313",
+      "url":"smb://print.ad.nfit.au.dk/1530-313-b-A3",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1530-412-b-1",
+      "location":"1530-412",
+      "url":"smb://print.ad.nfit.au.dk/1530-412-b-1",
+      "driver":"HP Universal Printing PCL 6"
+   },
+   {
+      "name":"1532-311-b-1",
+      "location":"1532-311",
+      "url":"smb://print.ad.nfit.au.dk/1532-311-b-1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1532-311-c-1",
+      "location":"1532-311",
+      "url":"smb://print.ad.nfit.au.dk/1532-311-c-1",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1532-311-C-2",
+      "location":"1532-311",
+      "url":"smb://print.ad.nfit.au.dk/1532-311-C-2",
+      "driver":"KONICA MINOLTA C650 Series PS"
+   },
+   {
+      "name":"1534-225-b-F1",
+      "location":"1534-225",
+      "url":"smb://print.ad.nfit.au.dk/1534-225-b-F1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1535-100-b-1",
+      "location":"Biology - Geomicrobiology",
+      "url":"smb://print.ad.nfit.au.dk/1535-100-b-1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1535-100-c",
+      "location":"Biology - Geomicrobiology",
+      "url":"smb://print.ad.nfit.au.dk/1535-100-c",
+      "driver":"HP Color LaserJet 4700 PS"
+   },
+   {
+      "name":"1535-300-c-B3",
+      "location":"1535-300",
+      "url":"smb://print.ad.nfit.au.dk/1535-300-c-B3",
+      "driver":"HP Color LaserJet 4700 PCL 6"
+   },
+   {
+      "name":"1535-400-c-B4",
+      "location":"1535-400",
+      "url":"smb://print.ad.nfit.au.dk/1535-400-c-B4",
+      "driver":"HP Color LaserJet 4700 PCL 6"
+   },
+   {
+      "name":"1540-012-b",
+      "location":"1540 012",
+      "url":"smb://print.ad.nfit.au.dk/1540-012-b",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"1540-012-c-1",
+      "location":"1540-012",
+      "url":"smb://print.ad.nfit.au.dk/1540-012-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1540-112-c",
+      "location":"Biology - Microbiology",
+      "url":"smb://print.ad.nfit.au.dk/1540-112-c",
+      "driver":"HP Color LaserJet 2700_2700n PCL 6"
+   },
+   {
+      "name":"1540-114-b-multi",
+      "location":"Konica Minolta C220",
+      "url":"smb://print.ad.nfit.au.dk/1540-114-b-multi",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1540-114-c-multi",
+      "location":"Konica Minolta C220",
+      "url":"smb://print.ad.nfit.au.dk/1540-114-c-multi",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1540-114-c-multi-secure",
+      "location":"Konica Minolta C220",
+      "url":"smb://print.ad.nfit.au.dk/1540-114-c-multi-secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"1540-212-b",
+      "location":"Biology -  Genetics and Ecology",
+      "url":"smb://print.ad.nfit.au.dk/1540-212-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"1540-214-b-multi",
+      "location":"1540-214",
+      "url":"smb://print.ad.nfit.au.dk/1540-214-b-multi",
+      "driver":"KONICA MINOLTA 350/250/200 VXL"
+   },
+   {
+      "name":"1540-312-b",
+      "location":"Biology - Ecoinformatics and biodiversity",
+      "url":"smb://print.ad.nfit.au.dk/1540-312-b",
+      "driver":"HP LaserJet 4200 PS"
+   },
+   {
+      "name":"1540-312-c",
+      "location":"Biology - Ecoinformatics and biodiversity",
+      "url":"smb://print.ad.nfit.au.dk/1540-312-c",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"1540-314-b-multi",
+      "location":"Biology - Ecoinformatics and biodiversity",
+      "url":"smb://print.ad.nfit.au.dk/1540-314-b-multi",
+      "driver":"KONICA MINOLTA 350/250/200 VXL"
+   },
+   {
+      "name":"1540-314-c-1",
+      "location":"1540-314",
+      "url":"smb://print.ad.nfit.au.dk/1540-314-c-1",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"1540-314-c-1-PS",
+      "location":"1540-314",
+      "url":"smb://print.ad.nfit.au.dk/1540-314-c-1-PS",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"1540-330-C-1",
+      "location":"1540-330-C-1",
+      "url":"smb://print.ad.nfit.au.dk/1540-330-C-1",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1540-336-b-1",
+      "location":"1540-336",
+      "url":"smb://print.ad.nfit.au.dk/1540-336-b-1",
+      "driver":"HP Universal Printing PCL 6"
+   },
+   {
+      "name":"1550-019-b",
+      "location":"Biology - Genetics and Ecology",
+      "url":"smb://print.ad.nfit.au.dk/1550-019-b",
+      "driver":"HP LaserJet P2015 PCL6"
+   },
+   {
+      "name":"1550-212-b",
+      "location":"Biology -  Genetics and Ecology",
+      "url":"smb://print.ad.nfit.au.dk/1550-212-b",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"1590-016-c-1",
+      "location":"1590-016",
+      "url":"smb://print.ad.nfit.au.dk/1590-016-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1590-074-c-1",
+      "location":"1590-074",
+      "url":"smb://print.ad.nfit.au.dk/1590-074-c-1",
+      "driver":"HP LJ300-400 color M351-M451 PCL 6"
+   },
+   {
+      "name":"1590-137-b-1",
+      "location":"1590-137",
+      "url":"smb://print.ad.nfit.au.dk/1590-137-b-1",
+      "driver":"HP LaserJet 4350 PCL 6"
+   },
+   {
+      "name":"1590-235a-b-1",
+      "location":"1590-235a",
+      "url":"smb://print.ad.nfit.au.dk/1590-235a-b-1",
+      "driver":"Kyocera Mita KM-2050 KX"
+   },
+   {
+      "name":"1590-235a-b2",
+      "location":"1590-235a",
+      "url":"smb://print.ad.nfit.au.dk/1590-235a-b2",
+      "driver":"KONICA MINOLTA 240f PCL6"
+   },
+   {
+      "name":"1590-235a-c-1",
+      "location":"1590-235a",
+      "url":"smb://print.ad.nfit.au.dk/1590-235a-c-1",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"1590-335a-b-1",
+      "location":"1590-335a",
+      "url":"smb://print.ad.nfit.au.dk/1590-335a-b-1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"1590-335a-c-1",
+      "location":"1590-335a",
+      "url":"smb://print.ad.nfit.au.dk/1590-335a-c-1",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1590-342-c-1",
+      "location":"1590-342",
+      "url":"smb://print.ad.nfit.au.dk/1590-342-c-1",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"1591-128-c-1",
+      "location":"1591-128",
+      "url":"smb://print.ad.nfit.au.dk/1591-128-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"1592-224-c-a",
+      "location":"1592-224",
+      "url":"smb://print.ad.nfit.au.dk/1592-224-c-a",
+      "driver":"HP Color LaserJet CP3525 PCL 6"
+   },
+   {
+      "name":"1593-118-b",
+      "location":"1593-118",
+      "url":"smb://print.ad.nfit.au.dk/1593-118-b",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1593-201-b",
+      "location":"1593-201",
+      "url":"smb://print.ad.nfit.au.dk/1593-201-b",
+      "driver":"HP LaserJet 1320 PS"
+   },
+   {
+      "name":"1671-229-c",
+      "location":"1671-229",
+      "url":"smb://print.ad.nfit.au.dk/1671-229-c",
+      "driver":"HP Color LaserJet 4700 PCL 6"
+   },
+   {
+      "name":"1671-334-c.nfit.au.dk",
+      "location":"1671-334",
+      "url":"smb://print.ad.nfit.au.dk/1671-334-c",
+      "driver":"HP Universal Printing PCL 5"
+   },
+   {
+      "name":"1672-030-c",
+      "location":"1672-030",
+      "url":"smb://print.ad.nfit.au.dk/1672-030-c",
+      "driver":"HP Color LaserJet CP3525 PCL 6"
+   },
+   {
+      "name":"1672-129-c-1",
+      "location":"1672-129",
+      "url":"smb://print.ad.nfit.au.dk/1672-129-c-1",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"1672-129-c-1-Secure",
+      "location":"1672-129",
+      "url":"smb://print.ad.nfit.au.dk/1672-129-c-1-Secure",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"1672-223-b",
+      "location":"1672-223",
+      "url":"smb://print.ad.nfit.au.dk/1672-223-b",
+      "driver":"HP LaserJet P2050 Series PCL6"
+   },
+   {
+      "name":"1672-223-c",
+      "location":"geo",
+      "url":"smb://print.ad.nfit.au.dk/1672-223-c",
+      "driver":"HP Universal Printing PCL 6"
+   },
+   {
+      "name":"1672-236-c",
+      "location":"1672-236",
+      "url":"smb://print.ad.nfit.au.dk/1672-236-c",
+      "driver":"HP Color LaserJet 2700_2700n PCL 6"
+   },
+   {
+      "name":"1672-242-b-1",
+      "location":"1672-242-b",
+      "url":"smb://print.ad.nfit.au.dk/1672-242-b-1",
+      "driver":"HP LaserJet P2050 Series PCL6"
+   },
+   {
+      "name":"1674-134-c",
+      "location":"1674-134",
+      "url":"smb://print.ad.nfit.au.dk/1674-134-c",
+      "driver":"HP LJ300-400 color MFP M375-M475 PCL 6"
+   },
+   {
+      "name":"1674-138-c-1",
+      "location":"1674-138",
+      "url":"smb://print.ad.nfit.au.dk/1674-138-c-1",
+      "driver":"HP Color LaserJet CP2020 Series PCL6"
+   },
+   {
+      "name":"1674-138-c-2",
+      "location":"1674-138",
+      "url":"smb://print.ad.nfit.au.dk/1674-138-c-2",
+      "driver":"Canon LBP7200C"
+   },
+   {
+      "name":"2117-111-c-1",
+      "location":"2117-111",
+      "url":"smb://print.ad.nfit.au.dk/2117-111-c-1",
+      "driver":"HP Color LaserJet CP2020 Series PCL6"
+   },
+   {
+      "name":"3110-100-c-psc01",
+      "location":"Bygning 3110 Væksthusene.",
+      "url":"smb://print.ad.nfit.au.dk/3110-100-c-psc01",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"3115-140-c-1",
+      "location":"3115-140-c-1",
+      "url":"smb://print.ad.nfit.au.dk/3115-140-c-1",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"3120-121-b-ps",
+      "location":"3120-121",
+      "url":"smb://print.ad.nfit.au.dk/3120-121-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3130-112-b-ps",
+      "location":"3130-112",
+      "url":"smb://print.ad.nfit.au.dk/3130-112-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3130-112-c2",
+      "location":"3130-112",
+      "url":"smb://print.ad.nfit.au.dk/3130-112-c2",
+      "driver":"KONICA MINOLTA C364SeriesPS SP"
+   },
+   {
+      "name":"3131-120-b-ps",
+      "location":"3131-120",
+      "url":"smb://print.ad.nfit.au.dk/3131-120-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3131-315-b-ps",
+      "location":"3131-315",
+      "url":"smb://print.ad.nfit.au.dk/3131-315-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3131-315-c-ps",
+      "location":"3131-315",
+      "url":"smb://print.ad.nfit.au.dk/3131-315-c-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3132-112-b-ps",
+      "location":"3132-112",
+      "url":"smb://print.ad.nfit.au.dk/3132-112-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3133-200-b-ps",
+      "location":"3133-200",
+      "url":"smb://print.ad.nfit.au.dk/3133-200-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3133-200-c-MFP",
+      "location":"3133-200",
+      "url":"smb://print.ad.nfit.au.dk/3133-200-c-MFP",
+      "driver":"HP LaserJet 200 color MFP M276 PCL 6"
+   },
+   {
+      "name":"3133-200-c-ps",
+      "location":"3133-200",
+      "url":"smb://print.ad.nfit.au.dk/3133-200-c-ps",
+      "driver":"HP Color LaserJet 4700 PS"
+   },
+   {
+      "name":"3133-300-b-ps",
+      "location":"3133-300",
+      "url":"smb://print.ad.nfit.au.dk/3133-300-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3134-010-b-ps",
+      "location":"3134-010",
+      "url":"smb://print.ad.nfit.au.dk/3134-010-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3134-010-c-ps",
+      "location":"3134-010",
+      "url":"smb://print.ad.nfit.au.dk/3134-010-c-ps",
+      "driver":"HP Color LaserJet CP3525 PCL6"
+   },
+   {
+      "name":"3134-104-b-ps",
+      "location":"3134-104",
+      "url":"smb://print.ad.nfit.au.dk/3134-104-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3134-204-b-ps",
+      "location":"3134-204",
+      "url":"smb://print.ad.nfit.au.dk/3134-204-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3135-301-b-ps",
+      "location":"3135-301",
+      "url":"smb://print.ad.nfit.au.dk/3135-301-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3141-124-b-ps",
+      "location":"3141-124",
+      "url":"smb://print.ad.nfit.au.dk/3141-124-b-ps",
+      "driver":"HP Universal Printing PS (v5.2)"
+   },
+   {
+      "name":"3141-215-c-1",
+      "location":"3141-215",
+      "url":"smb://print.ad.nfit.au.dk/3141-215-c-1",
+      "driver":"Xerox WorkCentre 7835"
+   },
+   {
+      "name":"3141-231-b-lp52",
+      "location":"3141-231-310",
+      "url":"smb://print.ad.nfit.au.dk/3141-231-b-lp52",
+      "driver":"KONICA MINOLTA 350/250/200 VXL"
+   },
+   {
+      "name":"3142-100-b-ps",
+      "location":"3142-100",
+      "url":"smb://print.ad.nfit.au.dk/3142-100-b",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"3142-100-c",
+      "location":"3142-100",
+      "url":"smb://print.ad.nfit.au.dk/3142-100-c",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"3410-333-b",
+      "location":"3410-333",
+      "url":"smb://print.ad.nfit.au.dk/3410-333-b",
+      "driver":"KONICA MINOLTA 190f PCL5e"
+   },
+   {
+      "name":"3410-335-c",
+      "location":"3410-335",
+      "url":"smb://print.ad.nfit.au.dk/3410-335-c",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"3410-447a-b",
+      "location":"3410-447a",
+      "url":"smb://print.ad.nfit.au.dk/3410-447a-b",
+      "driver":"KONICA MINOLTA C364SeriesPCL"
+   },
+   {
+      "name":"3410-524.2-b",
+      "location":"3410-524.b",
+      "url":"smb://print.ad.nfit.au.dk/3410-524.2-b",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"5125-121-c-1",
+      "location":"5125-E121",
+      "url":"smb://print.ad.nfit.au.dk/5125-121-c-1",
+      "driver":"HP Designjet Universal Print Driver HPGL2"
+   },
+   {
+      "name":"5250-100-c-1",
+      "location":"5250-100",
+      "url":"smb://print.ad.nfit.au.dk/5250-100-c-1",
+      "driver":"RICOH Aficio MP C5000 PCL 6"
+   },
+   {
+      "name":"5250-200-b-1",
+      "location":"5250-200",
+      "url":"smb://print.ad.nfit.au.dk/5250-200-b-1",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"5250-208A-C-1",
+      "location":"5250-208A",
+      "url":"smb://print.ad.nfit.au.dk/5250-208A-C-1",
+      "driver":"Xerox WorkCentre 7835"
+   },
+   {
+      "name":"5341-219-c-1",
+      "location":"5341-219",
+      "url":"smb://print.ad.nfit.au.dk/5341-219-c-1",
+      "driver":"Xerox WorkCentre 7225 PCL6"
+   },
+   {
+      "name":"5341-219-c-1-PS",
+      "location":"5341-219",
+      "url":"smb://print.ad.nfit.au.dk/5341-219-c-1-PS",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"5341-219-c-2",
+      "location":"5341-219",
+      "url":"smb://print.ad.nfit.au.dk/5341-219-c-2",
+      "driver":"Xerox WorkCentre 7220"
+   },
+   {
+      "name":"5342-122-b",
+      "location":"5342-122",
+      "url":"smb://print.ad.nfit.au.dk/5342-122-b",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"5346-029-c-1",
+      "location":"5346-029",
+      "url":"smb://print.ad.nfit.au.dk/5346-029-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"5346-029-c-2",
+      "location":"5346-029",
+      "url":"smb://print.ad.nfit.au.dk/5346-029-c-2",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"5346-042-c",
+      "location":"Hopper-042",
+      "url":"smb://print.ad.nfit.au.dk/5346-042-c",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"5346-129-c-1",
+      "location":"5346-129",
+      "url":"smb://print.ad.nfit.au.dk/5346-129-c-1",
+      "driver":"Xerox Global Print Driver PCL6"
+   },
+   {
+      "name":"5346-129-c-1-PS",
+      "location":"5346-129",
+      "url":"smb://print.ad.nfit.au.dk/5346-129-c-1-PS",
+      "driver":"Xerox Global Print Driver PS"
+   },
+   {
+      "name":"5365-115-b",
+      "location":"5363-115",
+      "url":"smb://print.ad.nfit.au.dk/5365-115-b",
+      "driver":"HP LaserJet 3015 PCL 5"
+   },
+   {
+      "name":"5511-026-b",
+      "location":"5511-026",
+      "url":"smb://print.ad.nfit.au.dk/5511-026-b",
+      "driver":"Canon iR 3170C EUR PS3"
+   },
+   {
+      "name":"5511-026-c",
+      "location":"5511-026",
+      "url":"smb://print.ad.nfit.au.dk/5511-026-c",
+      "driver":"Canon iR 3170C EUR PS3"
+   },
+   {
+      "name":"5520-318-c-1",
+      "location":"5520-318",
+      "url":"smb://print.ad.nfit.au.dk/5520-318-c-1",
+      "driver":"HP LaserJet 500 color M551 PCL6"
+   },
+   {
+      "name":"5520-320-b",
+      "location":"5520-320",
+      "url":"smb://print.ad.nfit.au.dk/5520-320-b",
+      "driver":"HP LaserJet P2050 Series PCL6"
+   },
+   {
+      "name":"5520-324-b-1",
+      "location":"5520-324 - IT Vest",
+      "url":"smb://print.ad.nfit.au.dk/5520-324-b-1",
+      "driver":"HP LaserJet P3011/P3015 PCL6"
+   },
+   {
+      "name":"Ada-017-b",
+      "location":"Ada 017",
+      "url":"smb://print.ad.nfit.au.dk/ada-017-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Ada-122-b",
+      "location":"Ada-122",
+      "url":"smb://print.ad.nfit.au.dk/ada-122-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Ada-122-c",
+      "location":"Ada-122",
+      "url":"smb://print.ad.nfit.au.dk/ada-122-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Ada-122-c-Secure",
+      "location":"Ada-122",
+      "url":"smb://print.ad.nfit.au.dk/ada-122-c-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Ada-222-b",
+      "location":"Ada-222-b",
+      "url":"smb://print.ad.nfit.au.dk/ada-222-b",
+      "driver":"HP Universal Printing PCL 5"
+   },
+   {
+      "name":"Codd-114-b",
+      "location":"Codd-m-114",
+      "url":"smb://print.ad.nfit.au.dk/codd-114-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Dreyer-218-b",
+      "location":"Dreyer-218",
+      "url":"smb://print.ad.nfit.au.dk/dreyer-218-b",
+      "driver":"HP Color LaserJet CP3525 PCL 6"
+   },
+   {
+      "name":"Dreyer-218-c",
+      "location":"Dreyer-218",
+      "url":"smb://print.ad.nfit.au.dk/dreyer-218-c",
+      "driver":"HP Color LaserJet CP3525 PCL 6"
+   },
+   {
+      "name":"Hopper-042-c",
+      "location":"Hopper-042",
+      "url":"smb://print.ad.nfit.au.dk/hopper-042-c",
+      "driver":"HP Universal Printing PCL 5 (v5.4)"
+   },
+   {
+      "name":"Hopper-331-c",
+      "location":"Hopper-331",
+      "url":"smb://print.ad.nfit.au.dk/hopper-331-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Hopper-331-c-2",
+      "location":"Hopper-331",
+      "url":"smb://print.ad.nfit.au.dk/Hopper-331-c-2",
+      "driver":"Canon iR-ADV C5045/5051 UFR II"
+   },
+   {
+      "name":"Nicolai-1110",
+      "location":"Nicolai-1110",
+      "url":"smb://print.ad.nfit.au.dk/Nicolai-1110",
+      "driver":"KONICA MINOLTA 750/600 VXL"
+   },
+   {
+      "name":"Nygaard-160-b",
+      "location":"Nygaard-160",
+      "url":"smb://print.ad.nfit.au.dk/Nygaard-160-b",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"Nygaard-178-c-Personale",
+      "location":"Nygaard-178",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-178-c-Personale",
+      "driver":"HP Color LaserJet CP2020 Series PCL6"
+   },
+   {
+      "name":"Nygaard-198-b-1",
+      "location":"Nygaard-198",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-198-b-1",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"Nygaard-294-c",
+      "location":"Nygaard-294",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-294-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-294-c-Secure",
+      "location":"Nygaard-294",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-294-c-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-307-c",
+      "location":"Nygaard-307",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-307-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-307-c-2",
+      "location":"Nygaard-307",
+      "url":"smb://print.ad.nfit.au.dk/Nygaard-307-c-2",
+      "driver":"Canon iR-ADV C5250/5255 UFR II"
+   },
+   {
+      "name":"Nygaard-307-c-2-PS",
+      "location":"Nygaard-307",
+      "url":"smb://print.ad.nfit.au.dk/Nygaard-307-c-2-PS",
+      "driver":"Canon iR-ADV C5250/5255 PS3"
+   },
+   {
+      "name":"Nygaard-352-c",
+      "location":"Nygaard-352",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-352-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-352-c-Secure",
+      "location":"Nygaard-352",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-352-c-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-394-c",
+      "location":"Nygaard-394",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-394-c",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Nygaard-394-c-Secure",
+      "location":"Nygaard-394",
+      "url":"smb://print.ad.nfit.au.dk/nygaard-394-c-Secure",
+      "driver":"KONICA MINOLTA C360SeriesPCL"
+   },
+   {
+      "name":"Shannon-108-b",
+      "location":"Shannon-108",
+      "url":"smb://print.ad.nfit.au.dk/shannon-108-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Stibitz-115-b",
+      "location":"Stibitz-115",
+      "url":"smb://print.ad.nfit.au.dk/stibitz-115-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Turing-020-b",
+      "location":"Turing-020",
+      "url":"smb://print.ad.nfit.au.dk/turing-020-b",
+      "driver":"HP LaserJet P4014/P4015 PCL6"
+   },
+   {
+      "name":"Turing-120-b",
+      "location":"Turing-120",
+      "url":"smb://print.ad.nfit.au.dk/turing-120-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   },
+   {
+      "name":"Turing-120-b-test",
+      "location":"Turing-120",
+      "url":"smb://print.ad.nfit.au.dk/turing-120-b-test",
+      "driver":"HP Universal Printing PS"
+   },
+   {
+      "name":"Turing-219-b",
+      "location":"Turing-219",
+      "url":"smb://print.ad.nfit.au.dk/turing-219-b",
+      "driver":"Canon iR2270/iR2870 PS3"
+   },
+   {
+      "name":"Zuse-111-b",
+      "location":"Zuse-111",
+      "url":"smb://print.ad.nfit.au.dk/zuse-111-b",
+      "driver":"HP LaserJet 600 M601 M602 M603 PCL6"
+   }
+]
